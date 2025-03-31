@@ -28,7 +28,7 @@ jobs:
       id: meta
       uses: docker/metadata-action@v2
       with:
-        images: santiagofe/integrador
+        images: dgomez86/integrador
         tags: |
           type=ref,event=branch
           type=semver,pattern={{version}}
