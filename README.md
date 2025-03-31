@@ -85,3 +85,5 @@ You can use this image directly in your `docker-compose.yml` without building it
 ## 📄 License
 
 This project is for educational use and is free to use and modify.
+
+<!-- Cambio de prueba para disparar GitHub Action -->
